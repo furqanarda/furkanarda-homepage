@@ -21,8 +21,7 @@
     "git-cz": "^4.9.0",
     "next": "^13.2.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "tig": "^0.1.43"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "eslint-config-next": "^13.2.3",
