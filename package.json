@@ -1,0 +1,30 @@
+{
+  "name": "furkanarda-homepage",
+  "version": "1.0.0",
+  "description": "Furkan ARDA's Portfolio Page",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "prettier": "prettier -write .",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "Furkan ARDA",
+  "license": "MIT",
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.17",
+    "@chakra-ui/react": "^2.5.1",
+    "@emotion/styled": "^11.10.6",
+    "@fontsource/m-plus-rounded-1c": "^4.5.10",
+    "framer-motion": "^10.1.0",
+    "git-cz": "^4.9.0",
+    "next": "^13.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint-config-next": "^13.2.3",
+    "prettier": "^2.8.4"
+  }
+}
